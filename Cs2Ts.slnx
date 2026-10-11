@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="src/Cs2Ts.Cli/Cs2Ts.Cli.csproj" Id="c2e25b94-d284-4580-bfba-b21a32905fea" />
+    <Project Path="src/Cs2Ts.Core/Cs2Ts.Core.csproj" Id="fac42afc-3c83-4d95-9e4a-b52186a3befc" />
+    <Project Path="src/Cs2Ts.Generator/Cs2Ts.Generator.csproj" Id="38be5a04-d579-4243-9817-d876f316f3e8" />
+    <Project Path="src/Cs2Ts.Infrastructure/Cs2Ts.Infrastructure.csproj" Id="924af870-6e9c-4609-a0f3-50815f6c39c8" />
+    <Project Path="src/Cs2Ts.Roslyn/Cs2Ts.Roslyn.csproj" Id="8a90694b-62e4-41e2-a9da-a88d2ccdfbc4" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="tests/Cs2Ts.Integeration.Tests/Cs2Ts.Integeration.Tests.csproj" Id="843e2740-2470-4765-bf3e-6f4c542fbd05" />
+    <Project Path="tests/Cs2Ts.Core.Tests/Cs2Ts.Core.Tests.csproj" Id="28905755-1192-4111-a1d5-6f174a717a64" />
+    <Project Path="tests/Cs2Ts.Roslyn.Tests/Cs2Ts.Roslyn.Tests.csproj" Id="a57ab9a5-fde8-48c9-b807-4b8641114e26" />
+  </Folder>
+</Solution>
